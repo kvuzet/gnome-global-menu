@@ -1,3 +1,12 @@
+# NOTE:
+
+This is a fork of https://github.com/gonzaarcr/Fildem which is now
+unmaintained. _if_ I can get it working again I may bother to update this
+readme some.
+
+# END NOTE
+
+
 # Fildem
 
 ## Global menu for Gnome
